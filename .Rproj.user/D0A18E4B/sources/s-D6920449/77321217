@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1569357088919.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "610952221",
+    "id" : "77321217",
+    "lastKnownWriteTime" : 1569365380,
+    "last_content_update" : 1569365380804,
+    "path" : "~/.Rprofile",
+    "project_path" : null,
+    "properties" : {
+        "cursorPosition" : "1,0",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
