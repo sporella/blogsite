@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Stephanie Orellana</title>
-    <link>/_index/</link>
+    <link>/</link>
     <description>Recent content on Stephanie Orellana</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 24 Sep 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/_index/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>¡Hola blogdown!</title>
-      <link>/_index/posts/hola-blogdown/</link>
+      <link>/posts/hola-blogdown/</link>
       <pubDate>Tue, 24 Sep 2019 00:00:00 +0000</pubDate>
       
-      <guid>/_index/posts/hola-blogdown/</guid>
+      <guid>/posts/hola-blogdown/</guid>
       <description>Aprovechando que se abrieron las postulaciones para las becas de diversidad rstudio::conf(2020) asistí a la mentoría de R-Ladies Santiago en donde aprendimos a sistematizar nuestros proyectos mediante una página web usando el paquete blogdown.
 Así que me animé a hacer una web personal en donde ir escribiendo sobre todas las nuevas cosas que voy aprendiendo en el extenso universo de R. Esta primera entrada es acerca de blogdown y lo fácil que es hacer un sitio web con conocimientos mínimos de css o html, aunque sí es necesario saber cosas de R y R markdown.</description>
     </item>
     
     <item>
       <title>Projectos</title>
-      <link>/_index/projects/</link>
+      <link>/projects/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/_index/projects/</guid>
+      <guid>/projects/</guid>
       <description>Cursos y talleres  R-Ladies Santiago - Taller sobre datos espaciales (Octubre 2019)
  Curso &amp;ldquo;Ciencia de datos en Recursos Naturales&amp;rdquo; - Facultad de Agronomía e Ing. Forestal UC (segundo semestre 2019)
   Presentaciones en Conferencias  Latin R 2019 - Utilizar R como un Sistema de Información Geográfica y hacer análisis reproducible.
@@ -35,10 +35,10 @@ Así que me animé a hacer una web personal en donde ir escribiendo sobre todas 
     
     <item>
       <title>Sobre mí</title>
-      <link>/_index/about/</link>
+      <link>/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/_index/about/</guid>
+      <guid>/about/</guid>
       <description>Soy de Santiago de Chile.
 Soy Ingeniera Agrónoma y me dedico a la Ciencia de Datos con enfoque en los Recursos Naturales. Mi mayor interés son los datos espaciales y la visualización de datos, así como todo lo que el mundo de la programación tiene para ofrecer.
 Actualemnte trabajo como Data Scientist en Cienciambiental Consultores y realizo el curso de Ciencia de Datos en Recursos Naturales en la Facultad de Agronomía e Ingeniería Forestal de la Universidad Católica de Chile.</description>
@@ -46,12 +46,11 @@ Actualemnte trabajo como Data Scientist en Cienciambiental Consultores y realizo
     
     <item>
       <title>Stephanie Orellana</title>
-      <link>/_index/home/</link>
+      <link>/home/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/_index/home/</guid>
-      <description>Ciencia de datos en español
- </description>
+      <guid>/home/</guid>
+      <description>Ciencia de datos en español</description>
     </item>
     
   </channel>

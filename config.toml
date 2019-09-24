@@ -1,4 +1,4 @@
-baseURL = "/_index/"
+baseURL = "/"
 languageCode = "en-us"
 title = "Stephanie Orellana"
 theme = "vanilla-bootstrap-hugo-theme"
@@ -22,7 +22,7 @@ pygmentsStyle = "b2"
   [[menu.nav]]
     name = "Inicio"
     pre = "home"
-    url = "/_index/"
+    url = "/"
     weight = 1
   [[menu.nav]]
     name = "Sobre mí"

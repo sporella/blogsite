@@ -3,45 +3,45 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/_index/tags/blogdown/</loc>
+    <loc>/tags/blogdown/</loc>
     <lastmod>2019-09-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/_index/posts/</loc>
+    <loc>/posts/</loc>
     <lastmod>2019-09-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/_index/tags/r/</loc>
+    <loc>/tags/r/</loc>
     <lastmod>2019-09-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/_index/</loc>
+    <loc>/</loc>
     <lastmod>2019-09-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/_index/tags/</loc>
+    <loc>/tags/</loc>
     <lastmod>2019-09-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/_index/posts/hola-blogdown/</loc>
+    <loc>/posts/hola-blogdown/</loc>
     <lastmod>2019-09-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/_index/projects/</loc>
+    <loc>/projects/</loc>
   </url>
   
   <url>
-    <loc>/_index/about/</loc>
+    <loc>/about/</loc>
   </url>
   
   <url>
-    <loc>/_index/home/</loc>
+    <loc>/home/</loc>
   </url>
   
 </urlset>
