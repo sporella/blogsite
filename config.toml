@@ -22,7 +22,7 @@ pygmentsStyle = "pygment"
   [[menu.nav]]
     name = "Inicio"
     pre = "home"
-    url = "/home/"
+    url = "/"
     weight = 1
   [[menu.nav]]
     name = "Sobre mí"
