@@ -1,11 +1,10 @@
 ---
-title: Home
+title: Stephanie Orellana
 ---
 
 ------
+[![img](images/av.png)]({{< relref "about.md" title="Created by Eucalypt from Noun Project">}})
 
-<img src="images/av.png" alt="Created by Eucalypt from Noun Project" href="/about/"
-	title="Created by Eucalypt from Noun Project" width="40%" height="40%"/> 
 
 ------
 Ciencia de datos en español
