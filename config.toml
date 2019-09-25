@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "/home/"
 languageCode = "en-us"
 title = "Stephanie Orellana"
 theme = "vanilla-bootstrap-hugo-theme"
