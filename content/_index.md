@@ -3,7 +3,10 @@ title: Stephanie Orellana
 ---
 
 ------
-[![img](images/av.png)]({{< relref "about.md" title="Created by Eucalypt from Noun Project">}})
+
+
+<img ref="about.md" src="images/av.png" alt="Created by Eucalypt from Noun Project" 
+	title="Created by Eucalypt from Noun Project" width="40%" height="40%"/> 
 
 
 ------
