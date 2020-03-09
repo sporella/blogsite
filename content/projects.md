@@ -7,7 +7,7 @@ title: Proyectos
 
 ## Cursos y talleres
 
-- R-Ladies Santiago - Taller sobre datos espaciales (2020)
+- R-Ladies Santiago - Taller sobre datos espaciales (2020) 
 
 - Curso "Ciencia de datos en Recursos Naturales" - Facultad de Agronomía e Ing. Forestal UC (segundo semestre 2019)
 
