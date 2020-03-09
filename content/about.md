@@ -9,7 +9,7 @@ Soy de Santiago de Chile.
 
 Soy Ingeniera Agrónoma y me dedico a la Ciencia de Datos con enfoque en los Recursos Naturales. Mi mayor interés son los datos espaciales y la visualización de datos, así como todo lo que el mundo de la programación tiene para ofrecer.
 
-Actualemnte trabajo como Data Scientist en [Cienciambiental Consultores](http://www.cienciambiental.cl/) y realizo el curso de Ciencia de Datos en Recursos Naturales en la Facultad de Agronomía e Ingeniería Forestal de la Universidad Católica de Chile. También soy parte de [R-Ladies Santiago](https://twitter.com/rladiessantiago) y durante este segundo semestre estaré dictando un taller sobre datos espaciales.
+Actualemnte trabajo como Data Scientist en [Cienciambiental Consultores](http://www.cienciambiental.cl/). También soy parte de [R-Ladies Santiago](https://twitter.com/rladiessantiago).
 
 Fuera del trabajo canto en un coro, escribo algunos cuentos y cocino los fines de semana.
 
