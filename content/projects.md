@@ -7,7 +7,7 @@ title: Proyectos
 
 ## Cursos y talleres
 
-- R-Ladies Santiago - Taller sobre datos espaciales (2020) 
+- R-Ladies Chile - [Taller sobre datos espaciales (9 de mayo 2020)](https://www.meetup.com/es/rladies-concepcion/events/270358493/)
 
 - Curso "Ciencia de datos en Recursos Naturales" - Facultad de Agronomía e Ing. Forestal UC (segundo semestre 2019)
 
